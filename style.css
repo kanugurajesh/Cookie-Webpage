@@ -70,6 +70,7 @@ img {
 }
 
 main {
+    position: relative;
     width: 400px;
     margin: 0 auto;
 }
@@ -86,8 +87,10 @@ Challenge:
 3. When it's positioned correctly, set its display 
    property to 'none'.
 */
-
-
+    /* position: absolute; */
+    position: fixed;
+    top: calc(50% - 210px);
+    left: calc(50% - 175px);
     height: 420px;
     width: 350px;
     border-radius: 5px;
