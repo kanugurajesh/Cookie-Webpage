@@ -88,9 +88,17 @@ Challenge:
    property to 'none'.
 */
     /* position: absolute; */
-    position: fixed;
+    /* position: fixed;
     top: calc(50% - 210px);
-    left: calc(50% - 175px);
+    left: calc(50% - 175px); */
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+
     height: 420px;
     width: 350px;
     border-radius: 5px;
