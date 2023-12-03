@@ -31,9 +31,7 @@ In the era of increasing online activities, it's crucial to be aware of potentia
 
 ## Demo
 
-[View Demo](#) <!-- Add the link to the live demo when available -->
-
-![Demo GIF](#) <!-- Add a link to a GIF or screenshot showcasing the demo -->
+![kanugurajesh github io_Cookie-Webpage_ - Google Chrome 2023-12-03 15-10-41](https://github.com/kanugurajesh/Cookie-Webpage/assets/120458029/919170d2-dc54-4adb-b490-34052f885dba)
 
 ## Installation
 
@@ -45,3 +43,21 @@ To run Cookie Webpage locally, follow these steps:
 git clone https://github.com/kanugurajesh/Cookie-Webpage.git
 cd Cookie-Webpage
 ```
+
+## Usage
+
+🌐 Launch the index.html file in your browser for an immersive experience.
+
+⏳ After a short wait, a popup will prompt you for information.
+
+🔒 Relax! This is just a demo, not a real data transfer to the dark web.
+
+Your information remains secure and protected. Enjoy exploring without any worries! 😊
+
+## Contributing
+
+This project loves to accept contributions from everyone
+
+## License
+
+This project license is mit
